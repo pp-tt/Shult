@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0260B410-B9DF-4870-9DAC-E698AB129E16"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA560814-B28A-4423-84FC-70FFA36D6900"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shult/View/TableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TableView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "DA560814-B28A-4423-84FC-70FFA36D6900 - 1af14ea2a8e8a597"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shult.TableView.size.getter : Swift.Int"
+                  moduleName = "Shult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xu/Developer/Shult/Shult/View/TableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "DA560814-B28A-4423-84FC-70FFA36D6900 - 2193dc234111938b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shult.TableView.size.setter : Swift.Int"
+                  moduleName = "Shult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xu/Developer/Shult/Shult/View/TableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "DA560814-B28A-4423-84FC-70FFA36D6900 - d97d726148c8bad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shult.TableView.size.modify : Swift.Int"
+                  moduleName = "Shult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xu/Developer/Shult/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "DA560814-B28A-4423-84FC-70FFA36D6900 - fd11a0e3bd19218b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shult.TableView.size.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Shult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xu/Developer/Shult/Shult/View/TableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "DA560814-B28A-4423-84FC-70FFA36D6900 - 3be9ab3024b2df53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shult.TableView.$size.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "Shult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xu/Developer/Shult/Shult/View/TableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
